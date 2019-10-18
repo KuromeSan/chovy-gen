@@ -1,7 +1,7 @@
 # chovy-gen by @dots_tb and Motoharu 
-(.dll version mod by SilicaAndPina)
-Generate __sce_ebootpbp for the vita
-
+(.dll version mod by SilicaAndPina)            
+Generate __sce_ebootpbp for the vita        
+ 
 This file is used to verify EBOOT.pbp files on the Vita to prevent tampering and is also used for version checking.
 
 To generate a __sce_ebootpbp, you must have obtained your AID. One method of obtaining your AID is to copy it from an existing __sce_ebootpbp at offset 0x40 to 0x48 from a hex editor.
