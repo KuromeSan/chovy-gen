@@ -1,4 +1,5 @@
-# chovy-gen by @dots_tb and Motoharu (.dll version mod by SilicaAndPina)
+# chovy-gen by @dots_tb and Motoharu 
+# (.dll version mod by SilicaAndPina)
 Generate __sce_ebootpbp for the vita
 
 This file is used to verify EBOOT.pbp files on the Vita to prevent tampering and is also used for version checking.
